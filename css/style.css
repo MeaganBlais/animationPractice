@@ -1,5 +1,5 @@
 #greeting {
-    position: absolute;
+    /* position: absolute; */
     left: 100px;
     top: 100px;
     color: #0000FF;
@@ -22,4 +22,8 @@
     font-size: 100px;
     color: #FF0000;
     left: 220px;
+}
+
+#box {
+    padding: 2px;
 }
